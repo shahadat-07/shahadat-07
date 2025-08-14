@@ -39,21 +39,6 @@ I am a **Full Stack Web Developer** working to help business owners and people c
 - ☁️ **Cloud Technologies**: Exploring cloud deployment and infrastructure strategies
 - 🚀 **Continuous Learning**: Expanding knowledge in system design and cloud architecture
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shahadat-07&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2937"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-07&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2937"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-07&theme=default&hide_border=true&background=ffffff&stroke=2563eb&ring=2563eb&fire=f59e0b&currStreakLabel=1f2937&sideLabels=1f2937&currStreakNum=2563eb&sideNums=2563eb" alt="GitHub Streak"/>
-</div>
-
----
-
 <div align="center">
 
 **Core Principles**
@@ -74,6 +59,21 @@ const developmentProcess = {
 
 ---
 
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shahadat-07&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2937"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-07&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2937"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-07&theme=default&hide_border=true&background=ffffff&stroke=2563eb&ring=2563eb&fire=f59e0b&currStreakLabel=1f2937&sideLabels=1f2937&currStreakNum=2563eb&sideNums=2563eb" alt="GitHub Streak"/>
+</div>
+
+---
+
 <div align="center">
 
 ### 🤝 Open for Professional Collaboration
@@ -84,7 +84,6 @@ const developmentProcess = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shahadat_webdev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahadat-07)
 
 </div>
 
