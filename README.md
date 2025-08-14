@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Scalable+Application+Architect;MERN+Stack+Specialist;Cloud+%26+DevOps+Engineer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=MERN+Specialist+%7C+Software+Engineer;Bridging+Business+Goals+and+Technical+Innovation;Through+Custom+Development)
   
   <img src="https://komarev.com/ghpvc/?username=shahadat-07&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </div>
