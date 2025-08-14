@@ -39,10 +39,6 @@ I am a **Full Stack Web Developer** working to help business owners and people c
 - ☁️ **Cloud Technologies**: Exploring cloud deployment and infrastructure strategies
 - 🚀 **Continuous Learning**: Expanding knowledge in system design and cloud architecture
 
-<div align="center">
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
